@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Gokul S, a Information Technology graduate with a strong foundation in programming and a passion for solving real-world problems through technology. I specialize in software development, machine learning, and blockchain-based solutions.<br><br>I thrive in collaborative environments and love to explore new tools and technologies to enhance my skill set. My goal is to contribute effectively to impactful projects while constantly learning and growing as a software engineer.<br><br>Let’s connect and build something amazing together! 🚀
+👋 Hi there! I'm Gokul S, a Information Technology graduate with a strong foundation in programming and a passion for solving real-world problems through technology. I specialize in software development, Full Stack Developer, and Cloud-based solutions.<br><br>I thrive in collaborative environments and love to explore new tools and technologies to enhance my skill set. My goal is to contribute effectively to impactful projects while constantly learning and growing as a software engineer.<br><br>Let’s connect and build something amazing together! 🚀
 
 
 ## 🌐 Socials:
